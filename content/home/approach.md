@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = ""
+title = "Approach"
+subtitle = "How do we science?"
 
 # Showcase personal skills or business features.
 # 
@@ -15,22 +15,23 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
+  icon = "globe-americas"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Atmospheric modeling"
+  description = "Modeling the emission, transport, transformation, and removal of chemicals in the atmosphere"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "flag"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Impact assessment"
+  description = "Modeling the impact of behavior and policy scenarios on human health and health equity"  
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine learning"
+  description = "Leveraging machine learning and artificial intelligence to improve existing models and allow new insights"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
