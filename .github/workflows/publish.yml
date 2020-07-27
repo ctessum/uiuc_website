@@ -49,4 +49,4 @@ jobs:
 
       - name: Deploy
         run: |
-          rsync -avz --delete public/ ctessum@ctessum.web.illinois.edu:/home/ctessum/public_html/
+          rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" --delete public/ ctessum@ctessum.web.illinois.edu:/home/ctessum/public_html/
