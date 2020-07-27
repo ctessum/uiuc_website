@@ -1,0 +1,51 @@
+name: Compile latest content and deploy
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+
+  compile_and_deploy:
+    name: Compile latest content
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout latest materials
+        uses: actions/checkout@v2
+        with:
+          submodules: 'true'
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: Install required packages
+        run: |
+          python --version
+          pip install -U academic
+
+      - name: Update bibliography
+        run: |
+          ./import_bib.sh
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.74.2'
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Install SSH key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          known_hosts: ${{ secrets.KNOWN_HOSTS }}
+          name: id_rsa 
+
+      - name: Deploy
+        run: |
+          rsync -avz --delete public/ ctessum@ctessum.web.illinois.edu:/home/ctessum/public_html/
