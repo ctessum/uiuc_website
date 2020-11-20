@@ -2,6 +2,6 @@
 
 # pip3 install -U academic
 
-rm -rf publication/*
+rm -r content/publication/*/
 
 academic import --featured --overwrite --bibtex featured_pubs.bib
