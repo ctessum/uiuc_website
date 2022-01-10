@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Xiaokai Yang
+title: Qurat ul ain Fatima
 
 # Username (this should match the folder name)
 authors:
-- xiaokaiyang
+- qfatima
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,15 +18,15 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio:
+bio: 
 
 interests:
 
 education:
   courses:
-  - course: B.E., Environmental Engineering
-    institution: Tongji University
-    year: 2020
+  - course: B.S., Civil Engineering
+    institution: NIT Srinagar
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +35,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:xiaokai2@illinois.edu
+  link: mailto:qfatima2@illinois.edu
+#- icon: google-scholar
+#  icon_pack: ai
+#  link:  https://scholar.google.com/citations?user=Ieni1TQAAAAJ&hl=ko
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/Manozzing
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #- icon: cv

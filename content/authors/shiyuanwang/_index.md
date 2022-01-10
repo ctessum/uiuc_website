@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Grad Students"
+- "Students"
 ---
 
 I am a 3+2 graduate student majored in transportation engineering at UIUC and receceived the Bachelor's degree in Transportation Engineering from Chang'an University, China. I am working with professor Tessum currently and the recent rearch we are doing now is the Input-Output life cycle assessment. It aims at looking at how the use of products and services will influence the environmental degradation, which further incluence people's health. My future plan is to do more research on air pollution topics and pursue a PhD degree.

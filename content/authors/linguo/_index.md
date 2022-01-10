@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Grad Students"
+- "Students"
 ---
 
 Lin is a current master’s student in Statistics. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
