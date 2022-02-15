@@ -16,7 +16,7 @@ For many full-physics Earth Science models—including the [GEOS-Chem](https://g
 
 ## Funding
 
-NASA
+[NASA](https://www.nasa.gov/directorates/spacetech/strg/ecf21/Interpretable_Machine_Learning/)
 
 ## Output
 
