@@ -11,7 +11,7 @@ industrial, and transportation systems evolve, communities need access to air qu
 information to participate fully in decision-processes and advance equitable solutions.
 
 With support from the NASA Applied Sciences program, our team will use satellite data and satellite-derived data products to correct these issues. In doing so,
-we will create a new platform that combines the causal nature of the [InMAP](https://inmap.run) with the
+we will create a new platform that combines the causal nature of the [InMAP](https://inmap.run) air quality model with the
 accuracy of NASA satellite observations—Satellite-enabled InMAP (SenMAP).
 
 We will use the new SenMAP platform to develop, test, and demonstrate sustained use of
