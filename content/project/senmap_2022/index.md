@@ -10,6 +10,7 @@ and compounds historic injustices and economic disadvantage. As the U.S. energy,
 industrial, and transportation systems evolve, communities need access to air quality
 information to participate fully in decision-processes and advance equitable solutions.
 
+The only existing tool to support scalable community-level pollution attribution and future-oriented decision-making is the Intervention Model for Air Pollution (InMAP). However, three major factors limit the utility of InMAP for equity and environmental justice (EEJ) analysis: 1) Model biases limit its value at the city scale; 2) Outdated emission inventories limit its relevance to immediate EEJ concerns; and 3) No web-based interface exists for U.S. cities to support non-technical users. 
 With support from the NASA Applied Sciences program, our team will use satellite data and satellite-derived data products to correct these issues. In doing so,
 we will create a new platform that combines the causal nature of the [InMAP](https://inmap.run) air quality model with the
 accuracy of NASA satellite observations—Satellite-enabled InMAP (SenMAP).
