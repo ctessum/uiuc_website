@@ -48,5 +48,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Students"
+- "Alumni"
 ---
+
+Minwoo was previously an undergraduate researcher in our lab. After graduating, he enrolled in the Graduate Program in Data Science at Vanderbilt University.
