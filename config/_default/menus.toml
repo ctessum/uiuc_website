@@ -24,6 +24,11 @@
   weight = 50
 
 [[main]]
+  name = "Photos"
+  url = "#gallery"
+  weight = 55
+
+[[main]]
   name = "All Publications"
   url = "https://scholar.google.com/citations?user=Psjg0S8AAAAJ&hl=en"
   weight = 60
