@@ -66,6 +66,6 @@ user_groups:
 - "Principal Investigator"
 ---
 
-Dr. Christopher Tessum is an Assistant Professor in the CEE department at UIUC. His research focuses on modeling air pollution and its health impacts, quantifying inequities in the distribution of those impacts, and proposing and testing solutions. He studies the relationships between emissions, the human activities that cause them, and the resulting health impacts, and he develops modeling capabilities to enable these types of analyses.
+Dr. Christopher Tessum is an Assistant Professor in the CEE department at the University of Illinois Urbana-Champaign. His research focuses on modeling air pollution and its health impacts, quantifying inequities in the distribution of those impacts, and proposing and testing solutions. He studies the relationships between emissions, the human activities that cause them, and the resulting health impacts, and he develops modeling capabilities to enable these types of analyses.
 
 Before joining UIUC, Dr. Tessum was a research scientist in the Department of Civil and Environmental Engineering at the University of Washington in Seattle and a postdoctoral researcher in the Department of Bioproducts and Biosystems Engineering at the University of Minnesota. He received a Ph.D. (2014) in Civil, Environmental and Geo- Engineering, and a B.M.E. in Mechanical Engineering (2006), from the University of Minnesota.
