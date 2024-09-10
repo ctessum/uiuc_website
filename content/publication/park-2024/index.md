@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Toward stable, general machine-learned models of the atmospheric chemical system
+title: 'Learned 1D Passive Scalar Advection to Accelerate Chemical Transport Modeling:
+  A Case Study with GEOS-FP Horizontal Wind Fields'
 subtitle: ''
 summary: ''
 authors:
-- Makoto M. Kelp
-- Daniel J. Jacob
-- J. Nathan Kutz
-- Julian D. Marshall
+- Manho Park
+- Zhonghua Zheng
+- Nicole Riemer
 - Christopher W. Tessum
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2022-01-10T16:58:24-06:00
+date: '2024-01-01'
+lastmod: 2024-09-10T10:53:52-05:00
 featured: true
 draft: false
 
@@ -31,12 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-10T22:58:24.910147Z'
+publishDate: '2024-09-10T15:53:51.996894Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Geophys. Res. Atmos.*'
+publication: '*Artificial Intelligence for the Earth Systems*'
+doi: 10.1175/AIES-D-23-0080.1
 links:
 - name: URL
-  url: https://doi.org/10.1029/2020JD032759
+  url: https://journals.ametsoc.org/view/journals/aies/3/3/AIES-D-23-0080.1.xml
 ---

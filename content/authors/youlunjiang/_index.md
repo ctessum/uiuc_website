@@ -48,7 +48,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Students"
+- "Alumni"
 ---
 
-Youlun is an undergraduate researcher in our lab. 
+Youlun was an undergraduate researcher in our lab. 

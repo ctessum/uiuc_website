@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-01-10T16:58:25-06:00
+lastmod: 2024-09-10T10:53:52-05:00
 featured: true
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-01-10T22:58:25.032248Z'
+publishDate: '2024-09-10T15:53:52.120933Z'
 publication_types:
 - '2'
 abstract: Commonly considered strategies for reducing the environmental impact of
