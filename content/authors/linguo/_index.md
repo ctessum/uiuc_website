@@ -24,12 +24,12 @@ interests:
 
 education:
   courses:
-  - course: M.S., Civil Engineering
+  - course: Ph.D. candidate, Informatics
     institution: University of Illinois at Urbana-Champaign
-    year: 2016
+  - course: M.S., Civil Engineering, Computer Science, Statistics
+    institution: University of Illinois at Urbana-Champaign
   - course: B.C.E., Civil Engineering
     institution: Tianjin University
-    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,4 +54,4 @@ user_groups:
 - "Students"
 ---
 
-Lin is a current master’s student in Statistics. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
+Lin is a current Ph.D. candidate in Informatics. He is interested in studying climate change and air pollution associated with human activities by machine learning and other statistical methods. He is also looking for application of Artificial Intelligence in air quality control. He expects a world with better air quality.
