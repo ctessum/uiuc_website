@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: "Undergraduate Research Assistant—Now: Data Science Master's Student at Vanderbilt University"
 
 # Organizations/Affiliations
 organizations:
