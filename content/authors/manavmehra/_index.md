@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: "Graduate Research Assistant—Now: Founding AI Engineer at Portal AI"
 
 # Organizations/Affiliations
 organizations:
@@ -51,4 +51,4 @@ user_groups:
 - "Alumni"
 ---
 
-Manav was previously a graduate researcher in our lab. After graduating, he went on to work at the AI startup company Eightfold AI as a Senior Engineer.
+Manav was previously a graduate researcher in our lab. After graduating, he went on to work at the AI startup company Eightfold AI as a Senior Engineer and is now a Founding Engineer at Portal AI.
