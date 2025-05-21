@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Research Assistant
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Students"
+- "Researchers"
 ---
 
-Amir is currently a PhD student in the Sustainable Resilient Infrastructure Systems interdisciplinary program.
+Amir received a PhD degree from the Sustainable Resilient Infrastructure Systems interdisciplinary program.
