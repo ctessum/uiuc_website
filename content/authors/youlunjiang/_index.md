@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: "Undergraduate Research Assistant—Now: Master's Student in Computer Science at Cornell University"
 
 # Organizations/Affiliations
 organizations:
