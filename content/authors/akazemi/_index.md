@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Amir Kazemi, PhD
+title: Amir Kazemi
 
 # Username (this should match the folder name)
 authors:
